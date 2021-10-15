@@ -1,0 +1,23 @@
+.title{
+    height: 500px;
+    width: 100px;
+}
+
+
+.box{
+    border: 2px solid rgb(214, 214, 214);
+    height: 20px;
+    width: 50;
+    margin: 30px;
+    float: left;
+}
+.box1 {
+    background-color: azure;
+}
+.box2 {
+    background-color: azure;
+}
+.box3 {
+    background-color: azure;
+}
+.box4 {background-color: azure;}
